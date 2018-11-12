@@ -1,0 +1,8 @@
+#include  	<stdio.h>
+int     main()
+{				//years-old
+	int	position_x  = 0;
+	printf("Hello world! \n");
+	return 0;
+}
+//×Ü¹²13¸ö
